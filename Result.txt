@@ -1,0 +1,14 @@
+			Year: 2013
+			Semester: 1
+			Attempt: 1
+			Batch: B67
+
+	Admission number: U001	Name: K.L.Liyanagama
+
+        Subject Code         Subject Name               Result
+               SB001                Maths                    B
+               SB002                  DSA                   AB
+               SB003              Physics                   AB
+               SB004                  SE1                   AB
+               SB005       Discrete Maths                   AB
+               SB007                  AAA                   AB
